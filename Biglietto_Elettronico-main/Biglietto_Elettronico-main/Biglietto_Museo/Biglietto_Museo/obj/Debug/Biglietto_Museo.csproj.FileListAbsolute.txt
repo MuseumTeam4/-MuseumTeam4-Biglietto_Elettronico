@@ -1,0 +1,29 @@
+C:\Users\Jacopo Montella\source\repos\Biglietto_Museo\Biglietto_Museo\obj\Debug\Biglietto_Museo.csprojAssemblyReference.cache
+C:\Users\Jacopo Montella\source\repos\Biglietto_Museo\Biglietto_Museo\obj\Debug\MainWindow.g.cs
+C:\Users\Jacopo Montella\source\repos\Biglietto_Museo\Biglietto_Museo\obj\Debug\App.g.cs
+C:\Users\Jacopo Montella\source\repos\Biglietto_Museo\Biglietto_Museo\obj\Debug\Biglietto_Museo_MarkupCompile.cache
+C:\Users\Jacopo Montella\source\repos\Biglietto_Museo\Biglietto_Museo\obj\Debug\Biglietto_Museo_MarkupCompile.lref
+C:\Users\Jacopo Montella\source\repos\Biglietto_Museo\Biglietto_Museo\bin\Debug\Biglietto_Museo.exe.config
+C:\Users\Jacopo Montella\source\repos\Biglietto_Museo\Biglietto_Museo\bin\Debug\Biglietto_Museo.exe
+C:\Users\Jacopo Montella\source\repos\Biglietto_Museo\Biglietto_Museo\bin\Debug\Biglietto_Museo.pdb
+C:\Users\Jacopo Montella\source\repos\Biglietto_Museo\Biglietto_Museo\obj\Debug\MainWindow.baml
+C:\Users\Jacopo Montella\source\repos\Biglietto_Museo\Biglietto_Museo\obj\Debug\Biglietto_Museo.g.resources
+C:\Users\Jacopo Montella\source\repos\Biglietto_Museo\Biglietto_Museo\obj\Debug\Biglietto_Museo.Properties.Resources.resources
+C:\Users\Jacopo Montella\source\repos\Biglietto_Museo\Biglietto_Museo\obj\Debug\Biglietto_Museo.csproj.GenerateResource.cache
+C:\Users\Jacopo Montella\source\repos\Biglietto_Museo\Biglietto_Museo\obj\Debug\Biglietto_Museo.csproj.CoreCompileInputs.cache
+C:\Users\Jacopo Montella\source\repos\Biglietto_Museo\Biglietto_Museo\obj\Debug\Biglietto_Museo.exe
+C:\Users\Jacopo Montella\source\repos\Biglietto_Museo\Biglietto_Museo\obj\Debug\Biglietto_Museo.pdb
+C:\Users\Studenti\Desktop\Biglietto_Elettronico-main\Biglietto_Elettronico-main\Biglietto_Museo\Biglietto_Museo\bin\Debug\Biglietto_Museo.exe.config
+C:\Users\Studenti\Desktop\Biglietto_Elettronico-main\Biglietto_Elettronico-main\Biglietto_Museo\Biglietto_Museo\bin\Debug\Biglietto_Museo.exe
+C:\Users\Studenti\Desktop\Biglietto_Elettronico-main\Biglietto_Elettronico-main\Biglietto_Museo\Biglietto_Museo\bin\Debug\Biglietto_Museo.pdb
+C:\Users\Studenti\Desktop\Biglietto_Elettronico-main\Biglietto_Elettronico-main\Biglietto_Museo\Biglietto_Museo\obj\Debug\Biglietto_Museo.csprojAssemblyReference.cache
+C:\Users\Studenti\Desktop\Biglietto_Elettronico-main\Biglietto_Elettronico-main\Biglietto_Museo\Biglietto_Museo\obj\Debug\MainWindow.g.cs
+C:\Users\Studenti\Desktop\Biglietto_Elettronico-main\Biglietto_Elettronico-main\Biglietto_Museo\Biglietto_Museo\obj\Debug\App.g.cs
+C:\Users\Studenti\Desktop\Biglietto_Elettronico-main\Biglietto_Elettronico-main\Biglietto_Museo\Biglietto_Museo\obj\Debug\Biglietto_Museo_MarkupCompile.cache
+C:\Users\Studenti\Desktop\Biglietto_Elettronico-main\Biglietto_Elettronico-main\Biglietto_Museo\Biglietto_Museo\obj\Debug\Biglietto_Museo_MarkupCompile.lref
+C:\Users\Studenti\Desktop\Biglietto_Elettronico-main\Biglietto_Elettronico-main\Biglietto_Museo\Biglietto_Museo\obj\Debug\MainWindow.baml
+C:\Users\Studenti\Desktop\Biglietto_Elettronico-main\Biglietto_Elettronico-main\Biglietto_Museo\Biglietto_Museo\obj\Debug\Biglietto_Museo.g.resources
+C:\Users\Studenti\Desktop\Biglietto_Elettronico-main\Biglietto_Elettronico-main\Biglietto_Museo\Biglietto_Museo\obj\Debug\Biglietto_Museo.Properties.Resources.resources
+C:\Users\Studenti\Desktop\Biglietto_Elettronico-main\Biglietto_Elettronico-main\Biglietto_Museo\Biglietto_Museo\obj\Debug\Biglietto_Museo.csproj.GenerateResource.cache
+C:\Users\Studenti\Desktop\Biglietto_Elettronico-main\Biglietto_Elettronico-main\Biglietto_Museo\Biglietto_Museo\obj\Debug\Biglietto_Museo.exe
+C:\Users\Studenti\Desktop\Biglietto_Elettronico-main\Biglietto_Elettronico-main\Biglietto_Museo\Biglietto_Museo\obj\Debug\Biglietto_Museo.pdb
